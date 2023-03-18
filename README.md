@@ -45,6 +45,7 @@
 ## About The Project
 
 PT. DAnS Multi Pro Back End Developer test purposes.
+Here's the [postman documentations link](https://documenter.getpostman.com/view/9505919/2s93JzKzpG).
 
 
 <!-- GETTING STARTED -->
